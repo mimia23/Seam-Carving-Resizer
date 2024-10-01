@@ -1,0 +1,73 @@
+SUMMARY
+=======
+Give your answer after each question and before the dashed lines, which you
+should not remove. Your answers can be multiple lines. THANK YOU!
+
+WHERE CAN WE FIND YOUR WORK ON GITHUB? Give the usernames of all teammates
+and the URL of the repository. [1 point]
+
+
+----------------------------------------
+
+DID YOU SUCCESSFULLY IMPLEMENT EVERYTHING THAT WAS REQUESTED? Either answer
+"Yes" or describe what you were and were not able to implement. [1 point]
+
+
+
+----------------------------------------
+
+DOES EVERYTHING WORK TO THE BEST OF YOUR KNOWLEDGE, AND DO ALL TESTS PASS?
+If the answer is not "Yes", please state here which parts did not work and
+which tests did not pass. [1 point]
+
+
+----------------------------------------
+
+WHAT WAS THE TOTAL AMOUNT OF TIME YOU SPENT ON THE ASSIGNMENT? Rather than
+giving a range, if you are unsure, give the average of the range. Use hours.
+[1 point]
+
+
+----------------------------------------
+
+WHO DID YOU WORK WITH AND HOW? Discussing the assignment with people not on
+your team is fine as long as you don't share code. [1 point]
+
+
+----------------------------------------
+
+WHAT RESOURCES DID YOU USE? Please give specific URLs and state which ones
+were particularly helpful. You do not need to cite course materials. [1 point]
+
+
+----------------------------------------
+
+WHAT DATA STRUCTURES DID YOU CONSIDER, AND HOW DID YOU CHOOSE YOUR FINAL ONE? [3 points]
+
+
+
+----------------------------------------
+
+GIVE ONE OR MORE PARAGRAPHS REFLECTING ON YOUR EXPERIENCE WITH THE
+ASSIGNMENT, including answers to **all** of these questions:
+
+* What was the most difficult part of the assignment?
+* What was the most rewarding part of the assignment?
+* What did you learn doing the assignment?
+* In what ways was this better or worse than a regular homework assignment?
+
+Constructive and actionable suggestions for improving assignments, office hours, and
+lecture are always welcome. If there was a TA or classmate who was especially helpful,
+say so. [6 points]
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
